@@ -1,5 +1,3 @@
-Patient number 1
-
 Nurse: Hello, what brings you here today?
 Patient: I have had a sore throat for two days.
 Nurse: Do you have a fever?

@@ -1,5 +1,3 @@
-Patient Number 3
-
 Nurse: Hello, what brings you here today?
 Patient: I've been having heart palpitations since yesterday.
 Nurse: Do you have any chest pain or difficulty breathing?

@@ -1,5 +1,3 @@
-Patient number 2
-
 Nurse: Hello, what brings you here today?
 Patient: I have pain in my knee after a collision during a football match yesterday.
 Nurse: Can you explain what happened?

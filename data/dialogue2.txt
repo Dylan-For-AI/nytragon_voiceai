@@ -1,0 +1,17 @@
+Patient number 2
+
+Nurse: Hello, what brings you here today?
+Patient: I have pain in my knee after a collision during a football match yesterday.
+Nurse: Can you explain what happened?
+Patient: I was playing football when I had a collision with another player during a tackle. My knee hit his leg quite hard.
+Nurse: Did you hear or feel a popping sound?
+Patient: No, I didn't hear anything, but I felt immediate pain.
+Nurse: Is your knee swollen?
+Patient: Yes, it is a little swollen, and it hurts when I walk.
+Nurse: Can you bend and straighten your knee?
+Patient: Yes, but it is painful, especially when I bend it.
+Nurse: Are you taking any medication at the moment?
+Patient: No, I'm not taking any medication.
+Nurse: Do you have any allergies?
+Patient: No, I don't have any known allergies.
+Nurse: Thank you. I will note all this information and arrange for a doctor to examine your knee

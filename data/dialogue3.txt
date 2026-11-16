@@ -1,0 +1,9 @@
+Patient Number 3
+
+Nurse: Hello, what brings you here today?
+Patient: I've been having heart palpitations since yesterday.
+Nurse: Do you have any chest pain or difficulty breathing?
+Patient: I sometimes feel dizzy and short of breath.
+Nurse: Are you taking any medication at the moment?
+Patient: No, I'm not taking any medication.
+Nurse: Thank you, I will check your heart rate and inform the doctor.

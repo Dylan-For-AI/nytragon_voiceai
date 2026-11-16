@@ -1,0 +1,14 @@
+Patient number 1
+
+Nurse: Hello, what brings you here today?
+Patient: I have had a sore throat for two days.
+Nurse: Do you have a fever?
+Patient: A little, I felt warm yesterday evening.
+Nurse: Any cough or trouble swallowing?
+Patient: Swallowing hurts a bit, no cough.
+Nurse: Are you taking any medication at the moment?
+Patient: Just vitamin D in the morning.
+Nurse: Do you have any allergies?
+Patient: Yes, I am allergic to peanuts.
+Nurse: Thank you, I will note that down.
+Patient: Okay, thank you.
